@@ -1,5 +1,3 @@
-Aqui está um exemplo de como você pode estruturar um arquivo `README.md` para o seu projeto de xadrez por console no GitHub. O projeto é baseado no curso de C# do professor Nélio, e o arquivo segue um formato padrão para ajudar outros desenvolvedores a entenderem o objetivo e como utilizar o projeto.
-
 ---
 
 # Xadrez Console - Projeto C# (Curso Nélio Alves)
